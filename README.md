@@ -11,8 +11,8 @@ There are many existing apps similar to this but they are too complicated!
 
 To install and start:
 
-cd ~/Documents/Mr_Clips && ./install.sh
+./install.sh
 
 To uninstall:
 
-cd ~/Documents/Mr_Clips && ./uninstall.sh
+./uninstall.sh
