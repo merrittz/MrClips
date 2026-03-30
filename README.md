@@ -1,6 +1,6 @@
 Simple, minimalistic clip board extender. Thanks, Claude.
 This definitely already exists as an open source project in some form that I used long ago but couldn't find it.
-There are many existing apps similar to this but they are too complicated!
+There are many existing apps similar to this but they are too complicated! And they want to charge money?! Bah.
 
 1. Polls the system clipboard every 0.5s, stores the last 5 unique text copies
 2. Ctrl+Option+V shows a floating popup near your cursor with the history
